@@ -2188,19 +2188,19 @@
 	"fear|9,0.6D,net.minecraft.entity.passive.EntityVillager",
     "sunburn"
   ],
-  "tameableArachneMod.entity.EntityArachne": [
+  "com.mods.tameableArachneMod.entity.EntityArachne": [
     "climb",
     "poisonResistance",
     "fallNegate",
     "potionEffect|71,15,0,false"
   ],
-  "tameableArachneMod.entity.EntityArachneMedium": [
+  "com.mods.tameableArachneMod.entity.EntityArachneMedium": [
     "poisonResistance",
     "climb",
     "fallNegate",
     "potionEffect|71,15,0,false"
   ],
-  "tameableArachneMod.entity.EntityHarpy": [
+  "com.mods.tameableArachneMod.entity.EntityHarpy": [
     "fallNegate",
     "poisonResistance",
     "fly|false"
