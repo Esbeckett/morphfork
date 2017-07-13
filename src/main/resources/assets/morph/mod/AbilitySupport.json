@@ -2205,31 +2205,31 @@
     "poisonResistance",
     "fly|false"
   ],
-		"lulan.Shincolle.Entity.EntityAirfieldHime": [
+		"com.lulan.shincolle.entity.hime.EntityAirfieldHime": [
     "swim|true,1.2F,1F,true"
   ],
-		"lulan.Shincolle.Entity.EntityBattleshipHime": [
+		"com.lulan.shincolle.entity.hime.EntityBattleshipHime": [
     "swim|true,1.2F,1F,true"
 	],
-		"lulan.Shincolle.Entity.EntityBattleshipRe": [
+		"com.lulan.shincolle.entity.battleship.EntityBattleshipRe": [
     "swim|true,1.2F,1F,true"
 	],
-		"lulan.Shincolle.Entity.EntityBattleshipTa": [
+		"com.lulan.shincolle.entity.battleship.EntityBattleshipTa": [
     "swim|true,1.2F,1F,true"
 	],
-		"lulan.Shincolle.Entity.EntityCarrierWo": [
+		"com.lulan.shincolle.entity.carrier.EntityCarrierWo": [
     "swim|true,1.2F,1F,true"
 	],
-		"lulan.Shincoller.Entity.EntityHarbourHime": [
+		"com.lulan.shincoller.entity.hime.EntityHarbourHime": [
     "swim|true,1.2F,1F,true"
 	],
-		"lulan.Shincolle.Entity.EntityHeavyCruiserNe": [
+		"com.lulan.shincolle.entity.cruiser.EntityHeavyCruiserNe": [
     "swim|true,1.2F,1F,true"
 	],
-		"lulan.Shincolle.Entity.EntityHeavyCruiserRi": [
+		"com.lulan.shincolle.entity.cruiser.EntityHeavyCruiserRi": [
     "swim|true,1.2F,1F,true"
 	],
-		"lulan.Shincolle.Entity.EntityNorthernHime": [
+		"com.lulan.shincolle.entity.hime.EntityNorthernHime": [
     "swim|true,1.2F,1F,true",
     "climb"
   ]
