@@ -2220,7 +2220,7 @@
 		"com.lulan.shincolle.entity.carrier.EntityCarrierWo": [
     "swim|true,1.2F,1F,true"
 	],
-		"com.lulan.shincoller.entity.hime.EntityHarbourHime": [
+		"com.lulan.shincolle.entity.hime.EntityHarbourHime": [
     "swim|true,1.2F,1F,true"
 	],
 		"com.lulan.shincolle.entity.cruiser.EntityHeavyCruiserNe": [
