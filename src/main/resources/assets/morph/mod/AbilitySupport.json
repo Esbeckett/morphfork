@@ -2231,21 +2231,6 @@
 	],
 		"Shincolle.EntityNorthernHime": [
     "swim|true,1.2F,1F,true",
-		"climb"
-	],
-		"gaia.entity.monster.EntityGaiaMermaid": [
-    "swim|true,1.2F,1F,true"
-	],
-		"gaia.entity.monster.EntityGaiaMermaid": [
-    "swim|true,1.2F,1F,true"
-	],
-		"gaia.entity.monster.EntityGaiaMermaid": [
-    "swim|true,1.2F,1F,true"
-	],
-		"gaia.entity.monster.EntityGaiaMermaid": [
-    "swim|true,1.2F,1F,true"
-	],
-		"gaia.entity.monster.EntityGaiaMermaid": [
-    "swim|true,1.2F,1F,true"
+    "climb"
   ]
 }
