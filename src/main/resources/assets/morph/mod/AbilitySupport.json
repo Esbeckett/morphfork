@@ -2206,46 +2206,46 @@
     "fly|false"
   ],
 		"Shincolle.EntityAirfieldHime": [
-    "swim|true,1.2F,1F,true",
+    "swim|true,1.2F,1F,true"
   ],
 		"Shincolle.EntityBattleshipHime": [
-    "swim|true,1.2F,1F,true",
+    "swim|true,1.2F,1F,true"
 	],
 		"Shincolle.EntityBattleshipRe": [
-    "swim|true,1.2F,1F,true",
+    "swim|true,1.2F,1F,true"
 	],
 		"Shincolle.EntityBattleshipTa": [
-    "swim|true,1.2F,1F,true",
+    "swim|true,1.2F,1F,true"
 	],
 		"Shincolle.EntityCarrierWo": [
-    "swim|true,1.2F,1F,true",
+    "swim|true,1.2F,1F,true"
 	],
 		"Shincoller.EntityHarbourHime": [
-    "swim|true,1.2F,1F,true",
+    "swim|true,1.2F,1F,true"
 	],
 		"Shincolle.EntityHeavyCruiserNe": [
-    "swim|true,1.2F,1F,true",
+    "swim|true,1.2F,1F,true"
 	],
 		"Shincolle.EntityHeavyCruiserRi": [
-    "swim|true,1.2F,1F,true",
+    "swim|true,1.2F,1F,true"
 	],
 		"Shincolle.EntityNorthernHime": [
     "swim|true,1.2F,1F,true",
 		"climb"
 	],
 		"gaia.entity.monster.EntityGaiaMermaid": [
-    "swim|true,1.2F,1F,true",
+    "swim|true,1.2F,1F,true"
 	],
 		"gaia.entity.monster.EntityGaiaMermaid": [
-    "swim|true,1.2F,1F,true",
+    "swim|true,1.2F,1F,true"
 	],
 		"gaia.entity.monster.EntityGaiaMermaid": [
-    "swim|true,1.2F,1F,true",
+    "swim|true,1.2F,1F,true"
 	],
 		"gaia.entity.monster.EntityGaiaMermaid": [
-    "swim|true,1.2F,1F,true",
+    "swim|true,1.2F,1F,true"
 	],
 		"gaia.entity.monster.EntityGaiaMermaid": [
-    "swim|true,1.2F,1F,true",
+    "swim|true,1.2F,1F,true"
   ]
 }
