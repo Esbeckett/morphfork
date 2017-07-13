@@ -681,6 +681,23 @@
   "danger.orespawn.VelocityRaptor": [
     "fallNegate"
   ],
+  "tameableArachneMod.entity.EntityArachne": [
+    "climb",
+    "poisonResistance",
+    "fallNegate",
+    "potionEffect|71,15,0,false"
+  ],
+  "tameableArachneMod.entity.EntityArachneMedium": [
+    "poisonResistance",
+    "climb",
+    "fallNegate",
+    "potionEffect|71,15,0,false"
+  ],
+  "tameableArachneMod.entity.EntityHarpy": [
+    "fallNegate",
+    "poisonResistance",
+    "fly|false"
+  ],
   "drzhark.mocreatures.entity.ambient.MoCEntityBee": [
     "fly|false",
     "waterAllergy"
