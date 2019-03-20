@@ -881,7 +881,7 @@
   "forestry.lepidopterology.entities.EntityButterfly": [
     "fly|true"
   ],
-  "gaia.entity.monster.EntityGaiaAnubis": [
+ "gaia.entity.monster.EntityGaiaAnubis": [
     "hostile",
     "potionEffect|2,600,0,false",
     "potionEffect|15,300,0,false"
@@ -1139,7 +1139,7 @@
     "hostile",
     "float|-0.114,true",
     "potionEffect|2,100,3,false"
-  ],
+],
   "gravestone.entity.monster.EntitySkeletonCat": [
     "hostile",
     "sunburn"
